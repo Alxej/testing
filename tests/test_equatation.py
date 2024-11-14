@@ -1,5 +1,5 @@
 import unittest
-from ..program.root import calculate_cuadratic_roots
+from root import calculate_cuadratic_roots
 
 
 class TestNegativeEquatation(unittest.TestCase):
